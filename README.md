@@ -27,3 +27,7 @@ $ cp ./.env.example ./.env
 ```bash
 $ npm run start:dev
 ```
+
+## Routes
+Swagger: /docs
+GraphQL Playground: /graphql
